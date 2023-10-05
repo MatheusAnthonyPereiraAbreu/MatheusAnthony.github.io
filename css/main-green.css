@@ -784,7 +784,7 @@ body > footer .copyrights {
 /* custom-pages */
 .block-title h3 {
   font-size: 21px;
-  margin: 5px 0 25px;
+  margin: 5px 0 25px ;
 }
 
 .block-title h3 span {
@@ -2557,4 +2557,15 @@ blockquote footer, blockquote small, blockquote .small {
   .home-page-description {
     font-size: 16px;
   }
+}
+.capcitation{
+  margin-left: 15px;
+}
+.capacitation-title h3 {
+  font-size: 21px;
+  margin: 5px 0 25px 15px ;
+}
+
+.capacitation-title h3 span {
+  color: #682fb3;
 }

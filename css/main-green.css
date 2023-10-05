@@ -2553,11 +2553,13 @@ blockquote footer, blockquote small, blockquote .small {
   }
 }
 .capcitation{
-  margin-left: 15px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
 }
 .capacitation-title h3 {
   font-size: 21px;
-  margin: 5px 0 25px 15px ;
+  margin: 30px 0 25px 25px ;
 }
 
 .capacitation-title h3 span {
